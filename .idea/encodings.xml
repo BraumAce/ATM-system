@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/dao/BaseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/CardDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/model/CardInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/TransInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/BalancePage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/CancellationPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ChooseLostPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/DepositPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/InitialPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/LoginPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/LostPage1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/LostPage2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/QueryPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/RegisterPage1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/RegisterPage2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ResetPassPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/TradingPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/TransferPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/WithDrawPage.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
